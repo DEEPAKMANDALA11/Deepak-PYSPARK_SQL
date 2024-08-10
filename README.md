@@ -1,2 +1,4 @@
 # Deepak-PYSPARK_SQL
-MY OWN GITHUB
+PY SPARK PRATCISE FROM ####https://platform.stratascratch.com/
+SQL from LEETCODE
+PYTHON FROM HACKER RANK
